@@ -1,1 +1,2 @@
-# sample1-error
+# sample1-ok
+循環参照サンプル１（循環参照エラーの解消）
